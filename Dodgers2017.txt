@@ -1,0 +1,12 @@
+Dodgers
+2017
+9
+Jones .265 29 115 39
+Machado .294 37 120 48
+Schoop .267 25 137 21
+Davis .221 38 219 88
+Trumbo .256 47 170 51
+Mancini .357 3 4 0
+Smith .249 16 89 48
+Joseph .174 0 28 7
+Tejada .167 0 13 7
